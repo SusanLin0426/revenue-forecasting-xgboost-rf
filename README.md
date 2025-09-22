@@ -46,7 +46,7 @@ This repository contains code and analysis for predicting **monthly revenue leve
 
 ---
 
-## Environment & Dependencies
+## Environment
 - Python 3.9+
 - Jupyter Notebook
 - Libraries:
@@ -54,7 +54,3 @@ This repository contains code and analysis for predicting **monthly revenue leve
   - `scikit-learn`
   - `xgboost`
   - `matplotlib`, `seaborn`
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
